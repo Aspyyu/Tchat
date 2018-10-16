@@ -9,8 +9,8 @@ import com.example.aymane.tchat.persistance.persistance;
 
 public class Choix extends AppCompatActivity {
 
-    Intent i;
-    String nom;
+    H, 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
